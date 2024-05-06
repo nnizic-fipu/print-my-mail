@@ -1,18 +1,18 @@
 # Program za printanje mailova
 ## Trenutno stanje:
-# main.py
+### main.py
 Datoteka u kojoj se nalazi program
 
-# mail_archive.txt
+### mail_archive.txt
 Datoteka u koju se upisuju mailovi koje program pročita
 
-# mail_data.py
-Datoteka u kokj je upisana:
-_mail adresa_
-_password_
-_imap server_
+### mail_data.txt
+Datoteka u koju je upisana:
+<i>mail adresa
+password
+imap server</i>
 
-** Program ne radi sa gmail adresama **
+<b>Program ne radi sa gmail adresama</b>
 
 ## Za napraviti
 <ul>
