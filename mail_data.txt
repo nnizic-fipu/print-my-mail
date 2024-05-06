@@ -1,0 +1,3 @@
+moja_adresa@moja_daomena.hr
+moj_password
+mail.moj_server.hr
